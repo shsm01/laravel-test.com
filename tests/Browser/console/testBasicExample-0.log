@@ -1,0 +1,26 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/icons\/image2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1499166705389
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/icons\/folder.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1499166705389
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/icons\/blank.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1499166705389
+    },
+    {
+        "level": "SEVERE",
+        "message": "http:\/\/localhost\/icons\/compressed.gif - Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "source": "network",
+        "timestamp": 1499166705390
+    }
+]
